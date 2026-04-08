@@ -1,15 +1,15 @@
-> .[!NOTE].
+> [!NOTE]
 > Aqui temos uma nota
 
-> .[!TIP].
+> [!TIP]
 > Aqui temos uma dica
 
-> .[!IMPORTANT].
+> [!IMPORTANT]
 > Aqui temos algo importante
 
-> .[!WARNING].
+> [!WARNING]
 > Aqui temos um alerta
 
-> .[!CAUTION].
+> [!CAUTION]
 > Aqui temos um alerta
 
