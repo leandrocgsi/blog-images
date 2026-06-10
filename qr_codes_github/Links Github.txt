@@ -45,3 +45,8 @@ https://pub.erudio.com.br/formacao-continuous-integration-delivery-java-aws-gith
 
 Formação Continuous Integration e Delivery: do Zero ao Deploy com Java, Spring Boot, Docker, Microsoft Azure e GitHub Actions
 https://pub.erudio.com.br/formacao-continuous-integration-delivery-java-azure-github-actions?utm_source=github&utm_medium=organic&utm_campaign=qrcode
+
+
+
+Formação Docker e Kubernetes 2026: do Zero à Inteligencia Artificial com MCP Catalog e Docker Model Runner
+https://pub.erudio.com.br/formacao-docker-kubernetes-do-zero-a-inteligencia-artificial-com-mcp?utm_source=github&utm_medium=organic&utm_campaign=qrcode
