@@ -51,3 +51,7 @@ https://pub.erudio.com.br/formacao-continuous-integration-delivery-java-azure-gi
 
 Formação Docker e Kubernetes 2026: do Zero à Inteligencia Artificial com MCP Catalog e Docker Model Runner
 https://pub.erudio.com.br/formacao-docker-kubernetes-do-zero-a-inteligencia-artificial-com-mcp?utm_source=github&utm_medium=organic&utm_campaign=qrcode
+
+Formação Claude Code para DEVs Java e Spring Boot: Produtividade 10x, Agentes de IA, MCPs e Aplicações do Mundo Real
+
+https://pub.erudio.com.br/formacao-dev10x-claude-code-para-devs-java-e-spring-boot?utm_source=github&utm_medium=organic&utm_campaign=qrcode
